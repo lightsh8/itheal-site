@@ -1,2 +1,16 @@
-# itheal-site
-itheal-site
+# ITheal — IT підтримка бізнесу
+
+Сайт компанії ITheal.
+
+## Послуги
+
+- DevOps послуги
+- Підтримка сайтів
+- IP-телефонія
+- Міграція у хмару
+- IT-архітектура
+- IT-безпека
+
+## Website
+
+https://it-heal.com.ua
